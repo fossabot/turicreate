@@ -1,6 +1,8 @@
 <img align="right" src="https://docs-assets.developer.apple.com/turicreate/turi-dog.svg" alt="Turi Create" width="100">
 
 # Turi Create 
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffilipeoliveiraa%2Fturicreate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffilipeoliveiraa%2Fturicreate?ref=badge_shield)
+
 
 Turi Create simplifies the development of custom machine learning models. You
 don't have to be a machine learning expert to add recommendations, object
@@ -147,3 +149,7 @@ Contributing
 ------------
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffilipeoliveiraa%2Fturicreate.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffilipeoliveiraa%2Fturicreate?ref=badge_large)
